@@ -1,3 +1,16 @@
+body{
+    color: blueviolet;
+    background: pink;
+    margin: opx;
+    font-family: "Amita", serif;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 3px black;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua;
+}
 .chamada{
     background: rgba(223, 19, 155, 0.623);
     margin-top: 80px;
